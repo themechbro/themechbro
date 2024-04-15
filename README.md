@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/themechbro/themechbro/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
