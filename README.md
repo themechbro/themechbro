@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working as a Full-Stack Developer<br>🌱 I’m currently learning Next.js<br>👨‍💻 All of my projects are available at Github.<br>📫 How to reach me adrinpaul29@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrintpaul/) 
