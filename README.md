@@ -1,26 +1,430 @@
-# 💫 About Me:
-A software enthusiast who develops software. Not a degree holder in CS, but still I code.<br>Currently developing Software for CSIR.<br>Learning Java and Spring Boot.<br>Working on Linkedup :)
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  🔮🕵️             CYBER-DETECTIVE ORACLE INTERFACE            🕵️🔮           ║
+║                                                                               ║
+║   AGENT: Adrin T Paul                    CODENAME: "[Your alias]"                   ║
+║   RANK: Full Stack Developer • DEPARTMENT: CSIR                                   ║
+║   JURISDICTION: Delhi • CLEARANCE: 2+                ║
+║                                                                               ║
+║   🎯 MISSION: [Your tagline]                                                     ║
+║   ⚡ STATUS: Open to New Oppurtunities                                                ║
+║                                                                               ║
+║   💫 AGENT PROFILE: [Your bio]                                                  ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrintpaul/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrinpaul29@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=QUANTUM+DEBUGGING+INITIATED...;SCANNING+DIGITAL+MYSTERIES...;ORACLE+SYSTEMS+ONLINE" alt="Typing Animation" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=themechbro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=themechbro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themechbro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=themechbro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=themechbro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=themechbro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 **HOLOGRAPHIC COMMAND CENTER** 🌐
+
+*Neural network interface displaying agent capabilities...*
+
+<table>
+<tr>
+<td width="33%">
+
+### 🔮 **MYSTICAL ANALYTICS**
+<img src="https://github-readme-stats.vercel.app/api?username=themechbro&show_icons=true&theme=synthwave&bg_color=0a0a0a&border_color=00ffff&icon_color=ff6ec7&text_color=ffffff&title_color=00ffff&ring_color=ff6ec7" alt="GitHub Stats" />
+
+</td>
+<td width="33%">
+
+### ⚡ **QUANTUM STREAKS**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=themechbro&theme=synthwave&background=0a0a0a&border=00ffff&stroke=ff6ec7&ring=00ffff&fire=ff6ec7&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+</td>
+<td width="33%">
+
+### 🎯 **NEURAL PATTERNS**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themechbro&layout=compact&theme=synthwave&bg_color=0a0a0a&border_color=00ffff&text_color=ffffff&title_color=00ffff" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+### 🌊 **DIGITAL CONSCIOUSNESS FLOW**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=themechbro&theme=synthwave&bg_color=0a0a0a&color=ff6ec7&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔧 **CYBER-MYSTICAL ARSENAL** 🔧
+
+*Quantum-enhanced investigative tools...*
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    🔮 ORACLE SPECIFICATIONS 🔮                ║
+╠═══════════════════════════════════════════════════════════════╣
+║ Primary Nexus: React, Next.js, Node.js, PostgreSQL, Express.js                               ║
+║ Tech Constellation: Next.js, Node.js, express.js, Spring Boot, PostgreSQL                            ║
+║ Expertise Domain: Full Stack Development                              ║
+║ Quantum Learning: Java, Data Structures and Algorithms and Spring Boot                        ║
+║ Neural Training: 30+ hrs/week               ║
+║ Caffeine Fuel: 3-5 quantum doses/day             ║
+║ Design Meditation: 10 hrs/week                  ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+### ⚡ **DIGITAL WEAPONRY**
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,bootstrap,nodejs,java,express,springboot,mysql,postgresql,mongodb,supabase,reactnative,git,github,vscode)](https://skillicons.dev)&perline=8&theme=dark)
+
+</div>
+
+<details>
+<summary>🔍 <strong>EXPAND FORENSIC TOOLKIT</strong></summary>
+
+```
+🔮 MYSTICAL PROGRAMMING LANGUAGES:
+├── Quantum Spells (Python/JavaScript)
+├── Reality Manipulation (React/Vue)
+├── Time Warp Protocols (Node.js/Django)
+├── Memory Incantations (Database Systems)
+└── Interface Alchemy (UI/UX Tools)
+
+⚡ CYBER-DETECTIVE GADGETS:
+├── Code Scanners (IDEs & Editors)
+├── Bug Traps (Testing Frameworks)  
+├── Digital Microscopes (Debugging Tools)
+├── Quantum Communicators (APIs & Services)
+└── Reality Anchors (Version Control)
+```
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗂️ **CLASSIFIED CASE FILES** 🗂️
+
+*High-priority digital investigations...*
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **CASE ALPHA: YelpCamp**
+
+```
+🔴 PRIORITY: CRITICAL
+🎯 STATUS: SOLVED
+🔮 ORACLE RATING: ⭐⭐⭐⭐⭐
+```
+
+**🕵️ INVESTIGATION SUMMARY:**
+A basic campground finding app, where you can view, rate and add review campground.
+
+**⚡ MYSTICAL TOOLS DEPLOYED:**
+`HTML,CSS, JavaScript, Node.js, Express.js, Bootstrap, MongoDB`
+
+<div align="center">
+
+[![View Case](https://img.shields.io/badge/🔍_EXAMINE_EVIDENCE-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff6ec7)]([Your project1Link])
+[![Source Code](https://img.shields.io/badge/📂_ACCESS_VAULT-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6ec7&labelColor=00ffff)](https://github.com/themechbro/YelpCamp)
+
+</div>
+
+---
+
+### 🌙 **CASE BETA: LinkedUp (Front End)**
+
+```
+🟡 PRIORITY: HIGH  
+🎯 STATUS: UNDER INVESTIGATION
+🔮 ORACLE RATING: ⭐⭐⭐⭐
+```
+
+**🕵️ FIELD REPORT:**
+A clone of real linkedin app
+
+**⚡ QUANTUM ARSENAL:**
+`Next.js, tailwind CSS, Material UI`
+
+<div align="center">
+
+[![View Case](https://img.shields.io/badge/🔍_REVIEW_FINDINGS-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff6ec7)]([Your project2Link])
+[![Source Code](https://img.shields.io/badge/📂_SECURE_FILES-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6ec7&labelColor=00ffff)](https://github.com/themechbro/linkedup)
+
+</div>
+
+</td>
+<td width="50%">
+
+### 🔥 **CASE GAMMA: LinkedUp (Backend Server)**
+
+```
+🔴 PRIORITY: MAXIMUM
+🎯 STATUS: BREAKTHROUGH
+🔮 ORACLE RATING: ⭐⭐⭐⭐⭐
+```
+
+**🕵️ BREAKTHROUGH ANALYSIS:**
+Linkedin Clone's backend
+
+**⚡ CYBER-MYSTICAL FRAMEWORK:**
+`[Your project3Tech]`
+
+<div align="center">
+
+[![View Case](https://img.shields.io/badge/🔍_WITNESS_BREAKTHROUGH-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff6ec7)]([Your project3Link])
+[![Source Code](https://img.shields.io/badge/📂_CLASSIFIED_INTEL-0a0a0a?style=for-the-badge&logo=git&logoColor=ff6ec7&labelColor=00ffff)]([Your project3Repo])
+
+</div>
+
+---
+
+### 📊 **CONTRIBUTION CONSTELLATION**
+
+<img src="https://github-profile-trophy.vercel.app/?username=themechbro&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub Trophies" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 **AGENT COMMENDATIONS & PROPHECIES** 🏆
+
+*Recognition from the cyber-mystical council...*
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **DISTINGUISHED ACHIEVEMENTS**
+
+```
+╔═══════════════════════════════════════════╗
+║         🏅 HALL OF RECOGNITION 🏅         ║
+╠═══════════════════════════════════════════╣
+║                                           ║
+║ 🥇 [Your achievement1]                      ║
+║                                           ║
+║ 🥈 [Your achievement2]                      ║
+║                                           ║
+║ 🥉 [Your achievement3]                      ║
+║                                           ║
+║ 📜 Certifications: Cybersecurity Specialisation from Google, The Web developers Bootcamp by Udemy    ║
+║                                           ║
+╚═══════════════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+### 🔮 **ORACLE PROPHECY**
+
+```
+╔═══════════════════════════════════════════╗
+║          🌟 QUANTUM DESTINY 🌟            ║
+╠═══════════════════════════════════════════╣
+║                                           ║
+║ Current Mission: Build new products          ║
+║                                           ║
+║ Next Dimension: Lead a cross-functional engineering team              ║
+║                                           ║
+║ Ultimate Quest: [Your mission]               ║
+║                                           ║
+║ Focus Nexus: [Your currentFocus]             ║
+║                                           ║
+║ Sacred Wisdom:                            ║
+║ "[Your inspirationalQuote]"                  ║
+║                                           ║
+╚═══════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧬 **AGENT PSYCHOLOGICAL MATRIX** 🧬
+
+*Deep neural profile analysis...*
+
+<table>
+<tr>
+<td width="25%">
+
+**🔮 Current Study**
+```
+📚 [Your currentBook]
+```
+
+</td>
+<td width="25%">
+
+**⚡ Quantum Ability**
+```
+🦾 [Your superpower]
+```
+
+</td>
+<td width="25%">
+
+**🌟 Operating Code**
+```
+💫 [Your motto]
+```
+
+</td>
+<td width="25%">
+
+**🎯 Interests Nexus**
+```
+🔍 [Your interests]
+```
+
+</td>
+</tr>
+<tr>
+<td width="25%">
+
+**🎮 Recreation Alpha**
+```
+🎯 [Your hobby1]
+```
+
+</td>
+<td width="25%">
+
+**🌙 Recreation Beta**
+```
+🎨 [Your hobby2]
+```
+
+</td>
+<td width="25%">
+
+**🔬 Classified Intel**
+```
+🤫 [Your funFact]
+```
+
+</td>
+<td width="25%">
+
+**⚠️ System Vulnerability**
+```
+🔓 [Your weakness]
+```
+
+</td>
+</tr>
+</table>
+
+### 🐍 **NEURAL PATHWAY VISUALIZATION**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 **QUANTUM COMMUNICATION ARRAY** 📡
+
+*Secure channels for interdimensional contact...*
+
+```
+              🛸
+         ╔══════════╗
+         ║ COMM HUB ║
+         ╚═══════════╝
+             │
+    ┌────────┼────────┐
+    │        │        │
+   📧       💼       🐦
+  SECURE   CORP     INTEL
+  CHANNEL  LINK   NETWORK
+```
+
+### 🌐 **DIMENSIONAL PORTALS**
+
+[![Email](https://img.shields.io/badge/📧_Quantum_Message-0a0a0a?style=for-the-badge&logo=protonmail&logoColor=00ffff&labelColor=ff6ec7)](mailto:adrinpaul29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Professional_Portal-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff6ec7&labelColor=00ffff)](adrintpaul)
+[![Twitter](https://img.shields.io/badge/🐦_Intel_Network-0a0a0a?style=for-the-badge&logo=twitter&logoColor=00ffff&labelColor=ff6ec7)]([Your twitter])
+[![Portfolio](https://img.shields.io/badge/🌐_Case_Archives-0a0a0a?style=for-the-badge&logo=firefox&logoColor=ff6ec7&labelColor=00ffff)]([Your website])
+[![Discord](https://img.shields.io/badge/🎮_Secure_Comms-0a0a0a?style=for-the-badge&logo=discord&logoColor=00ffff&labelColor=ff6ec7)]([Your discord])
+
+### 🔥 **NEURAL LINK METRICS**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=themechbro&theme=synthwave&bg_color=0a0a0a&border_color=00ffff&text_color=ffffff&title_color=00ffff" alt="WakaTime Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **QUANTUM SIGNATURE & SURVEILLANCE** 🌟
+
+*Digital presence monitoring and agent identification...*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=themechbro&label=🔮%20QUANTUM%20VISITORS&color=ff6ec7&style=for-the-badge&labelColor=0a0a0a)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themechbro&theme=synthwave" alt="Profile Summary" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                        🔮🕵️ TRANSMISSION COMPLETE 🕵️🔮                       ║
+║                                                                               ║
+║  The cyber-mystical investigation continues. Agent Adrin T Paul remains active   ║
+║  in the digital realm, solving quantum mysteries and debugging reality.      ║
+║                                                                               ║
+║  📡 Neural Link Status: ACTIVE                                               ║
+║  🔮 Oracle Systems: ONLINE                                                   ║
+║  ⚡ Quantum Debugging: ENABLED                                               ║
+║                                                                               ║
+║  "In code we trust, through bugs we transcend, with coffee we conquer."     ║
+║                                                                               ║
+║                    🌟 END OF CLASSIFIED TRANSMISSION 🌟                      ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain Effect" width="100%" />
+
+### 🎯 **QUANTUM DEBUGGING PROTOCOL ACTIVATED** 🎯
+
+```
+> Initializing holographic interface...
+> Loading agent profile...
+> Establishing quantum connection...
+> Ready for next investigation...
+```
+
+</div>
