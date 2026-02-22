@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in India<br>🚀 I'm currently working on LinkedUp<br>🧠 I'm currently learning Java Springboot<br>✉️ You can contact me at adrinpaul29@gmail.com<br>
+🌍 I'm based in India<br>🚀 I'm currently working on LinkedUp<br>🧠 I'm currently learning Java Springboot<br>✉️ You can contact me at adrinpaul29@gmail.com<br> 🌐 You can see my profile here https://adrin-t-paul.vercel.app/ <br>
 
 
 ## 🌐 Socials:
