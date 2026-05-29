@@ -1,27 +1,186 @@
-# 💫 About Me:
-🌍 I'm based in India<br>🚀 I'm currently working on LinkedUp<br>🧠 I'm currently learning Java Springboot<br>✉️ You can contact me at adrinpaul29@gmail.com<br>🌐 You can see my profile here https://adrin-t-paul.vercel.app/<br>🚀 Also contributing to gRPC java, Microsoft PromptKit and Microsoft Fluent UI<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:818cf8,100:4f46e5&height=220&section=header&text=Adrin%20T%20Paul&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%2F%20Backend%20Engineer&descFontSize=18&descAlignY=56&descAlign=50&descFontColor=c7d2fe&stroke=ffffff&strokeWidth=1" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrintpaul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrinpaul29@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=650&lines=Building+systems+that+scale.;Merged+a+fix+into+grpc%2Fgrpc-java.;Contributing+to+Microsoft+PromptKit+%26+Fluent+UI.;Currently+shipping+LinkedUp.;Open+to+top-tier+engineering+roles.)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=themechbro&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=themechbro&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themechbro&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=themechbro&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=themechbro&color=6366f1&style=flat-square&label=Profile+Views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/themechbro?color=6366f1&style=flat-square&logo=github&label=Followers)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=themechbro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=themechbro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```yaml
+name:         Adrin T Paul
+role:         Full Stack / Backend Engineer
+employer:     CSIR Innovation Protection Unit — New Delhi
+location:     Greater Delhi Area, India
+contact:      adrinpaul29@gmail.com
+portfolio:    adrin-t-paul.vercel.app
+```
+
+---
+
+## 🌍 Open Source — Where the Real Work Happens
+
+> Shipping fixes and features into codebases used by millions of developers.
+
+| Organization | Repository | Contribution | Status |
+|:---:|:---:|:---|:---:|
+| ![Google](https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=google&logoColor=white) | [grpc/grpc-java](https://github.com/grpc/grpc-java) | Race condition fix in core RPC layer | ✅ **Merged** |
+| ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | [microsoft/PromptKit](https://github.com/microsoft/promptkit) | Active contributor | 🟢 **Active** |
+| ![Microsoft](https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | [microsoft/fluentui](https://github.com/microsoft/fluentui) | Active contributor | 🟢 **Active** |
+
+---
+
+## 🚀 Currently Shipping
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [LinkedUp](https://github.com/themechbro)
+Production-grade full-stack social platform.
+- Spring Boot microservices + Node.js API gateway
+- HLS video streaming with FFmpeg sprite thumbnails
+- Redis Lua token bucket rate limiting
+- PostgreSQL full-text search with GIN indexes
+- Socket.IO real-time notifications + presence
+
+</td>
+<td width="50%" valign="top">
+
+### [Prompt Builder](https://promptbuilder-five.vercel.app)
+AI prompt engineering studio → transitioning to product.
+- pgvector semantic search + Gemini embeddings
+- Prompt chaining with `{{previous_output}}` injection
+- Community Hub with pack discovery + use tracking
+- BYOK — keys never persisted, cleared on tab close
+- Live sandbox: GPT-4o Mini · Claude Haiku · Gemini Flash
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [system-design-java](https://github.com/themechbro/system-design-java)
+Production-grade system design in Java 21.
+- Token Bucket + Sliding Window rate limiters
+- Consistent Hashing — MD5 + 150 virtual nodes
+- Next: LRU Cache · Task Queue · Pub/Sub
+
+</td>
+<td width="50%" valign="top">
+
+### API Gateway
+Standalone gateway with enterprise-grade patterns.
+- JWT auth + Redis Lua rate limiting
+- 3-state circuit breaker implementation
+- Dynamic route management
+- Supabase request logging + dashboard
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,python,bash,lua&theme=dark&perline=6)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,redux&theme=dark&perline=4)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=3)](https://skillicons.dev)
+
+**Databases & Infrastructure**
+
+[![Infra](https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,docker,aws&theme=dark&perline=6)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux&theme=dark&perline=5)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=themechbro&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themechbro&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=themechbro&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themechbro/themechbro/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themechbro/themechbro/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/themechbro/themechbro/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=themechbro&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=themechbro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrintpaul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adrin-t-paul.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrinpaul29@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:818cf8,100:6366f1&height=120&section=footer" width="100%"/>
